@@ -8,7 +8,7 @@
 
    `python kindle_notes.py`
 
-
+![demo](https://raw.githubusercontent.com/weizhixiaoyi/KindleNotes2Txt/master/demo.png)
 
 
 
